@@ -1,0 +1,45 @@
+contact page uppermenu
+
+
+
+
+@media only screen and (max-width: 690px)
+.container, div.slider-nav {
+    /* max-width: 300px!important; */
+}
+
+
+
+sf-menu sf-js-enabled sf-arrows{
+	
+
+	display: flex;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+}
+
+
+@media only screen and (max-width:360px){
+	
+	.container {
+    max-width: 100%;
+}
+#header-secondary-outer nav > ul > li > a {
+    color: rgba(0,0,0,0.55);
+    border-left: 1px solid #ddd;
+    height: auto;
+    line-height: 13px!important;
+    font-size: 11px!important;
+    z-index: -1;
+    padding: 10px!Important;
+}
+}
+
+@media only screen and (max-width: 360px) and (min-width: 330px){
+.whatsapp {
+    position: relative;
+    bottom: 0px;
+}
+}

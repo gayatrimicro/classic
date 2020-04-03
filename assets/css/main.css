@@ -1,0 +1,73 @@
+body .section-title #portfolio-nav a:hover i {
+	opacity: 0.75;
+}
+#header-outer.transparent header#top #logo, #header-outer.transparent header#top #logo:hover {
+	color: #ffffff!important;
+}
+#header-outer.transparent header#top nav>ul>li>a, #header-outer.transparent header#top nav ul #search-btn a span.icon-salient-search, #header-outer.transparent nav>ul>li>a>.sf-sub-indicator [class^="icon-"], #header-outer.transparent nav>ul>li>a>.sf-sub-indicator [class*=" icon-"], #header-outer.transparent .cart-menu .cart-icon-wrap .icon-salient-cart, .ascend #boxed #header-outer.transparent .cart-menu .cart-icon-wrap .icon-salient-cart {
+	color: #ffffff!important;
+	opacity: 0.75!important;
+	transition: opacity 0.2s linear, color 0.2s linear;
+}
+#header-outer.transparent:not([data-lhe="animated_underline"]) header#top nav>ul>li>a:hover, #header-outer.transparent:not([data-lhe="animated_underline"]) header#top nav .sf-menu>li.sfHover>a, #header-outer.transparent:not([data-lhe="animated_underline"]) header#top nav .sf-menu>li.current_page_ancestor>a, #header-outer.transparent header#top nav .sf-menu>li.current-menu-item>a, #header-outer.transparent:not([data-lhe="animated_underline"]) header#top nav .sf-menu>li.current-menu-ancestor>a, #header-outer.transparent:not([data-lhe="animated_underline"]) header#top nav .sf-menu>li.current_page_item>a, #header-outer.transparent header#top nav>ul>li>a:hover>.sf-sub-indicator>i, #header-outer.transparent header#top nav>ul>li.sfHover>a>span>i, #header-outer.transparent header#top nav ul #search-btn a:hover span, #header-outer.transparent header#top nav ul .slide-out-widget-area-toggle a:hover span, #header-outer.transparent header#top nav .sf-menu>li.current-menu-item>a i, #header-outer.transparent header#top nav .sf-menu>li.current-menu-ancestor>a i, #header-outer.transparent .cart-outer:hover .icon-salient-cart, .ascend #boxed #header-outer.transparent .cart-outer:hover .cart-menu .cart-icon-wrap .icon-salient-cart {
+	opacity: 1!important;
+	color: #ffffff!important;
+}
+#header-outer.transparent[data-lhe="animated_underline"] header#top nav>ul>li>a:hover, #header-outer.transparent[data-lhe="animated_underline"] header#top nav .sf-menu>li.sfHover>a, #header-outer.transparent[data-lhe="animated_underline"] header#top nav .sf-menu>li.current-menu-ancestor>a, #header-outer.transparent[data-lhe="animated_underline"] header#top nav .sf-menu>li.current_page_item>a {
+	opacity: 1!important;
+}
+#header-outer[data-lhe="animated_underline"].transparent header#top nav>ul>li>a:after, #header-outer.transparent header#top nav>ul>li.button_bordered>a:before {
+	border-color: #ffffff!important;
+}
+#header-outer.transparent:not(.directional-nav-effect)>header#top nav ul .slide-out-widget-area-toggle a i.lines, #header-outer.transparent:not(.directional-nav-effect)>header#top nav ul .slide-out-widget-area-toggle a i.lines:before, #header-outer.transparent:not(.directional-nav-effect)>header#top nav ul .slide-out-widget-area-toggle a i.lines:after, #header-outer.transparent:not(.directional-nav-effect)>header#top nav ul .slide-out-widget-area-toggle[data-icon-animation="simple-transform"] .lines-button:after, #header-outer.transparent.directional-nav-effect>header#top nav ul .slide-out-widget-area-toggle a span.light .lines-button i, #header-outer.transparent.directional-nav-effect>header#top nav ul .slide-out-widget-area-toggle a span.light .lines-button i:after, #header-outer.transparent.directional-nav-effect>header#top nav ul .slide-out-widget-area-toggle a span.light .lines-button i:before, #header-outer.transparent:not(.directional-nav-effect) .midnightHeader.nectar-slider header#top nav ul .slide-out-widget-area-toggle a i.lines, #header-outer.transparent:not(.directional-nav-effect) .midnightHeader.nectar-slider header#top nav ul .slide-out-widget-area-toggle a i.lines:before, #header-outer.transparent:not(.directional-nav-effect) .midnightHeader.nectar-slider header#top nav ul .slide-out-widget-area-toggle a i.lines:after, #header-outer.transparent.directional-nav-effect .midnightHeader.nectar-slider header#top nav ul .slide-out-widget-area-toggle a span.light .lines-button i, #header-outer.transparent.directional-nav-effect .midnightHeader.nectar-slider header#top nav ul .slide-out-widget-area-toggle a span.light .lines-button i:after, #header-outer.transparent.directional-nav-effect .midnightHeader.nectar-slider header#top nav ul .slide-out-widget-area-toggle a span.light .lines-button i:before {
+	background-color: #ffffff!important;
+}
+#header-outer.transparent header#top nav ul .slide-out-widget-area-toggle a i.lines, #header-outer.transparent header#top nav ul .slide-out-widget-area-toggle[data-icon-animation="simple-transform"] a i.lines-button:after {
+	opacity: 0.75!important;
+}
+#header-outer.transparent.side-widget-open header#top nav ul .slide-out-widget-area-toggle a i.lines, #header-outer.transparent header#top nav ul .slide-out-widget-area-toggle[data-icon-animation="simple-transform"] a:hover i.lines-button:after, #header-outer.transparent header#top nav ul .slide-out-widget-area-toggle a:hover i.lines, #header-outer.transparent header#top nav ul .slide-out-widget-area-toggle a:hover i.lines:before, #header-outer.transparent header#top nav ul .slide-out-widget-area-toggle a:hover i.lines:after {
+	opacity: 1!important;
+}
+#header-outer.transparent.dark-slide>header#top nav>ul>li>a, #header-outer.transparent.dark-row>header#top nav>ul>li>a, #header-outer.transparent.dark-slide:not(.directional-nav-effect)>header#top nav ul #search-btn a span, #header-outer.transparent.dark-row:not(.directional-nav-effect)>header#top nav ul #search-btn a span, #header-outer.transparent.dark-slide>header#top nav>ul>li>a>.sf-sub-indicator [class^="icon-"], #header-outer.transparent.dark-slide>header#top nav>ul>li>a>.sf-sub-indicator [class*=" icon-"], #header-outer.transparent.dark-row>header#top nav>ul>li>a>.sf-sub-indicator [class*=" icon-"], #header-outer.transparent.dark-slide:not(.directional-nav-effect) .cart-menu .cart-icon-wrap .icon-salient-cart, #header-outer.transparent.dark-row:not(.directional-nav-effect) .cart-menu .cart-icon-wrap .icon-salient-cart, body.ascend[data-header-color="custom"] #boxed #header-outer.transparent.dark-slide>header#top .cart-outer .cart-menu .cart-icon-wrap i, body.ascend #boxed #header-outer.transparent.dark-slide>header#top .cart-outer .cart-menu .cart-icon-wrap i, #header-outer.transparent.dark-slide .midnightHeader.nectar-slider header#top nav>ul>li>a, #header-outer.transparent.dark-slide:not(.directional-nav-effect) .midnightHeader.nectar-slider header#top nav ul #search-btn a span, #header-outer.transparent.dark-slide .midnightHeader.nectar-slider header#top nav>ul>li>a>.sf-sub-indicator [class^="icon-"], #header-outer.transparent.dark-slide .midnightHeader.nectar-slider header#top nav>ul>li>a>.sf-sub-indicator [class*=" icon-"], #header-outer.transparent.dark-slide:not(.directional-nav-effect) .midnightHeader.nectar-slider header#top .cart-menu .cart-icon-wrap .icon-salient-cart, body.ascend[data-header-color="custom"] #boxed #header-outer.transparent.dark-slide .midnightHeader.nectar-slider header#top .cart-outer .cart-menu .cart-icon-wrap i, body.ascend #boxed #header-outer.transparent.dark-slide .midnightHeader.nectar-slider header#top .cart-outer .cart-menu .cart-icon-wrap i {
+	color: #333333!important;
+}
+#header-outer.transparent.dark-slide:not(.directional-nav-effect)>header#top nav ul .slide-out-widget-area-toggle a .lines-button i, #header-outer.transparent.dark-slide:not(.directional-nav-effect)>header#top nav ul .slide-out-widget-area-toggle a .lines-button i:after, #header-outer.transparent.dark-slide:not(.directional-nav-effect)>header#top nav ul .slide-out-widget-area-toggle a .lines-button i:before, #header-outer.transparent.dark-slide:not(.directional-nav-effect) .midnightHeader.nectar-slider header#top nav ul .slide-out-widget-area-toggle a .lines-button i, #header-outer.transparent.dark-slide:not(.directional-nav-effect) .midnightHeader.nectar-slider header#top nav ul .slide-out-widget-area-toggle a .lines-button i:after, #header-outer.transparent.dark-slide:not(.directional-nav-effect) .midnightHeader.nectar-slider header#top nav ul .slide-out-widget-area-toggle a .lines-button i:before, #header-outer.transparent.dark-slide:not(.directional-nav-effect)>header#top nav ul .slide-out-widget-area-toggle[data-icon-animation="simple-transform"] .lines-button:after, #header-outer.transparent.dark-slide:not(.directional-nav-effect) .midnightHeader.nectar-slider header#top nav ul .slide-out-widget-area-toggle[data-icon-animation="simple-transform"] .lines-button:after {
+	background-color: #333333!important;
+}
+#header-outer.transparent.dark-slide>header#top nav>ul>li>a:hover, #header-outer.transparent.dark-slide>header#top nav .sf-menu>li.sfHover>a, #header-outer.transparent.dark-slide>header#top nav .sf-menu>li.current_page_ancestor>a, #header-outer.transparent.dark-slide>header#top nav .sf-menu>li.current-menu-item>a, #header-outer.transparent.dark-slide>header#top nav .sf-menu>li.current-menu-ancestor>a, #header-outer.transparent.dark-slide>header#top nav .sf-menu>li.current_page_item>a, #header-outer.transparent.dark-slide>header#top nav>ul>li>a:hover>.sf-sub-indicator>i, #header-outer.transparent.dark-slide>header#top nav>ul>li.sfHover>a>span>i, #header-outer.transparent.dark-slide>header#top nav ul #search-btn a:hover span, #header-outer.transparent.dark-slide>header#top nav .sf-menu>li.current-menu-item>a i, #header-outer.transparent.dark-slide>header#top nav .sf-menu>li.current-menu-ancestor>a i, #header-outer.transparent.dark-slide>header#top .cart-outer:hover .icon-salient-cart, body.ascend[data-header-color="custom"] #boxed #header-outer.transparent.dark-slide>header#top .cart-outer:hover .cart-menu .cart-icon-wrap i, #header-outer.transparent.dark-slide>header#top #logo, #header-outer[data-permanent-transparent="1"].transparent.dark-slide .midnightHeader.nectar-slider header#top .span_9>.slide-out-widget-area-toggle i, #header-outer.transparent:not([data-lhe="animated_underline"]).dark-slide header#top nav .sf-menu>li.current_page_item>a, #header-outer.transparent:not([data-lhe="animated_underline"]).dark-slide header#top nav .sf-menu>li.current-menu-ancestor>a, #header-outer.transparent:not([data-lhe="animated_underline"]).dark-slide header#top nav>ul>li>a:hover, #header-outer.transparent:not([data-lhe="animated_underline"]).dark-slide header#top nav .sf-menu>li.sfHover>a, #header-outer.transparent.dark-slide .midnightHeader.nectar-slider header#top nav>ul>li>a:hover, #header-outer.transparent.dark-slide .midnightHeader.nectar-slider header#top nav .sf-menu>li.sfHover>a, #header-outer.transparent.dark-slide .midnightHeader.nectar-slider header#top nav .sf-menu>li.current_page_ancestor>a, #header-outer.transparent.dark-slide .midnightHeader.nectar-slider header#top nav .sf-menu>li.current-menu-item>a, #header-outer.transparent.dark-slide .midnightHeader.nectar-slider header#top nav .sf-menu>li.current-menu-ancestor>a, #header-outer.transparent.dark-slide .midnightHeader.nectar-slider header#top nav .sf-menu>li.current_page_item>a, #header-outer.transparent.dark-slide .midnightHeader.nectar-slider header#top nav>ul>li>a:hover>.sf-sub-indicator>i, #header-outer.transparent.dark-slide header#top nav>ul>li.sfHover>a>span>i, #header-outer.transparent.dark-slide .midnightHeader.nectar-slider header#top nav ul #search-btn a:hover span, #header-outer.transparent.dark-slide .midnightHeader.nectar-slider header#top nav .sf-menu>li.current-menu-item>a i, #header-outer.transparent.dark-slide .midnightHeader.nectar-slider header#top nav .sf-menu>li.current-menu-ancestor>a i, #header-outer.transparent.dark-slide .midnightHeader.nectar-slider header#top .cart-outer:hover .icon-salient-cart, body.ascend[data-header-color="custom"] #boxed #header-outer.transparent.dark-slide>header#top .cart-outer:hover .cart-menu .cart-icon-wrap i, #header-outer.transparent.dark-slide .midnightHeader.nectar-slider header#top #logo, .swiper-wrapper .swiper-slide[data-color-scheme="dark"] .slider-down-arrow i.icon-default-style[class^="icon-"], .slider-prev.dark-cs i, .slider-next.dark-cs i, .swiper-container .dark-cs.slider-prev .slide-count span, .swiper-container .dark-cs.slider-next .slide-count span {
+	color: #333333!important;
+}
+#header-outer[data-lhe="animated_underline"].transparent.dark-slide header#top nav>ul>li>a:after, #header-outer[data-lhe="animated_underline"].transparent:not(.side-widget-open) .midnightHeader.dark header#top nav>ul>li>a:after, #header-outer[data-lhe="animated_underline"].transparent:not(.side-widget-open) .midnightHeader.default header#top nav>ul>li>a:after, #header-outer.dark-slide.transparent:not(.side-widget-open) header#top nav>ul>li.button_bordered>a:before {
+	border-color: #333333!important;
+}
+.swiper-container[data-bullet_style="scale"] .slider-pagination.dark-cs .swiper-pagination-switch.swiper-active-switch i, .swiper-container[data-bullet_style="scale"] .slider-pagination.dark-cs .swiper-pagination-switch:hover i {
+	background-color: #333333;
+}
+.slider-pagination.dark-cs .swiper-pagination-switch {
+	border: 1px solid #333333;
+	background-color: transparent;
+}
+.slider-pagination.dark-cs .swiper-pagination-switch:hover {
+	background: none repeat scroll 0 0 #333333;
+}
+.slider-pagination.dark-cs .swiper-active-switch {
+	background: none repeat scroll 0 0 #333333;
+}
+#fp-nav:not(.light-controls) ul li a span:after {
+	background-color: #333333;
+}
+#fp-nav:not(.light-controls) ul li a span {
+	box-shadow: inset 0 0 0 8px rgba(51, 51, 51, 0.3);
+	-webkit-box-shadow: inset 0 0 0 8px rgba(51, 51, 51, 0.3);
+}
+body #fp-nav ul li a.active span {
+	box-shadow: inset 0 0 0 2px rgba(51, 51, 51, 0.8);
+	-webkit-box-shadow: inset 0 0 0 2px rgba(51, 51, 51, 0.8);
+}
+#header-space {
+	background-color: #f9f9f9
+}
+.pagination-navigation {
+	-webkit-filter: url("index.html#goo");
+	filter: url("index.html#goo");
+}
