@@ -565,7 +565,7 @@ jQuery.extend(jQuery.easing, { def: "easeOutQuad", swing: function(a, b, c, d, e
 				             
 				              </div>
 				               <div class="col span_6">
-				                <p> Copyright 2020 &copy; Classic Metallic Sheets Factory LLC. All rights reserved.
+				                <p> Copyright 2018 &copy; Classic Metallic Sheets Factory LLC. All rights reserved.
 				                    <a href="">
 				                        <font color="white" size="3"></font>
 				                    </a>
@@ -8101,7 +8101,7 @@ jQuery.extend(jQuery.easing, { def: "easeOutQuad", swing: function(a, b, c, d, e
                             }
                         }
                     } else {
-                        // only remove â€œdetachedâ€ class if user is at the top of document (menu jump fix)
+                        // only remove “detached” class if user is at the top of document (menu jump fix)
                         $topDetachNum = ($('#header-outer[data-using-secondary="1"]').length > 0) ? 32 : 0;
                         if ($('.body-border-top').length > 0) {
                             $topDetachNum = ($('#header-outer[data-using-secondary="1"]').length > 0) ? 32 + $('.body-border-top').height() : $('.body-border-top').height();
