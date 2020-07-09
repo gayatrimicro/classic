@@ -1249,7 +1249,7 @@
 
 	body .vc_row-fluid .vc_col-sm-2[class*="vc_col-sm-"] {
 		width: 48%;
-		margin-left: 4%;
+		/*margin-left: 4%;*/
 	}
 	.vc_row-fluid .vc_col-sm-2[class*="vc_col-sm-"]:first-child:not([class*="offset"]),
 	.vc_row-fluid .vc_col-sm-2[class*="vc_col-sm-"]:nth-child(2n+3):not([class*="offset"]) {
