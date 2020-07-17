@@ -21545,7 +21545,7 @@ body[data-is="minimal"] .lines, body[data-is="minimal"] .lines:before, body[data
     background-position: center;
     border-radius: 50%;
     outline: none;
-    /*display: none;*/
+    display: none;
 }
 #BckTop i {
     line-height: 53px;
