@@ -10905,7 +10905,7 @@ body[data-button-style="rounded"] #to-top:active:before { opacity: 1; }
 
 #to-top:hover, #to-top.dark:hover  { background-color: #27CFC3; }
 
-#to-top.dark { background-color: rgba(0,0,0,0.87); }
+/*#to-top.dark { background-color: rgba(0,0,0,0.87); }*/
 
 body[data-smooth-scrolling="1"] #to-top { right: 33px; }
 
@@ -21527,7 +21527,44 @@ body[data-is="minimal"] .lines, body[data-is="minimal"] .lines:before, body[data
     margin: auto;
 
 }
+
+
+#BckTop{
+    position: fixed;
+    text-align: center;
+    line-height: 12px;
+    right: 35px;
+    bottom: 35px;
+    color: #fff;
+    cursor: pointer;
+    z-index: 9994;
+    height: 58px;
+    width: 58px;
+    background-color: #0071bb;
+    background-repeat: no-repeat;
+    background-position: center;
+    border-radius: 50%;
+    outline: none;
+    display: none;
+}
+#BckTop i {
+    line-height: 53px;
+    width: 29px;
+    height: 29px;
+    font-size: 33px;
+    top: 0px;
+    left: 0px;
+    text-align: center;
+    position: relative;
+    z-index: 10;
+    background-color: transparent;
+}
+@media(min-width: 320px) and (max-width: 767px){
+	#BckTop {
+    right: 10px;
+    bottom: 15px;
 }
 
+}
 
 
