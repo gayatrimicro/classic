@@ -442,7 +442,7 @@ jQuery.extend(jQuery.easing, { def: "easeOutQuad", swing: function(a, b, c, d, e
 				                               VAT: 100001619400003<br>
 				                                <a href="https://www.google.co.in/maps/place/Classic+Metallic+Sheet+Factory+LLC/@25.357513,55.6236113,17z/data=!3m1!4b1!4m5!3m4!1s0x3ef5f2335e6421bb:0xdf59b1896b8c11c4!8m2!3d25.357513!4d55.6258" target="_blank" style="color:blue  !important;">Get Directions</a>
                                                 <a href="https://www.linkedin.com/company/classicmetallic/" style="display:block;margin-top:11px;">
-                            <img class="whatsapp" src="assets/images/linkdin.png">
+                            <img class="whatsapp" src="https://www.classicmetallic.com/assets/images/linkdin.png">
                         </a>
 
 				                                
